@@ -21,8 +21,4 @@ class App < Sinatra::Base
     slim :index
   end
 
-  get('/slider') do 
-    slim :slider
-  end
-
 end
