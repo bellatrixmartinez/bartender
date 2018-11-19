@@ -1,0 +1,86 @@
+.blend
+{
+        width:1000px;
+        height:750px;
+        background:#3db6b8 url("/images/blends.jpg") no-repeat center center;
+}
+
+.blend.multiply
+ {
+        background-blend-mode: multiply;
+ }
+
+ .blend.screen
+ {
+        background-blend-mode: screen;
+ }
+
+  .blend.overlay
+ {
+        background-blend-mode: overlay;
+ }
+
+   .blend.darken
+ {
+        background-blend-mode: darken;
+ }
+
+   .blend.lighten
+ {
+        background-blend-mode: lighten;
+ }
+
+   .blend.color-dodge
+ {
+        background-blend-mode: color-dodge;
+ }
+
+   .blend.color-burn
+ {
+        background-blend-mode: color-burn;
+ }
+
+   .blend.hard-light
+ {
+        background-blend-mode: hard-light;
+ }
+
+    .blend.soft-light
+ {
+        background-blend-mode: soft-light;
+ }
+
+    .blend.difference
+ {
+        background-blend-mode: difference;
+ }
+
+    .blend.exclusion
+ {
+        background-blend-mode: exclusion;
+ }
+
+    .blend.hue
+ {
+        background-blend-mode: hue;
+ }
+
+    .blend.saturation
+ {
+        background-blend-mode: saturation;
+ }
+
+    .blend.color
+ {
+        background-blend-mode: color;
+ }
+
+    .blend.luminosity
+ {
+        background-blend-mode: luminosity;
+ }
+
+ .blend h1 {
+ 	color: white;
+ 	font-weight: lighter;
+ }

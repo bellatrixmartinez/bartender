@@ -21,4 +21,8 @@ class App < Sinatra::Base
     slim :index
   end
 
+  get('/blendmode') do 
+    slim :blendmode
+  end
+
 end
